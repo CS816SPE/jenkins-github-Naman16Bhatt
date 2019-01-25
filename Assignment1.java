@@ -7,6 +7,7 @@ class Branch{
     public static void main(String ar[]){
     
        System.out.println("Hello friends"); 
+System.out.println("Hello friends"); 
     }
   
 }
